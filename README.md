@@ -109,18 +109,6 @@ Each script outputs the **optimal objective value** and **decision variable valu
 
 ---
 
-## 👥 Authors
-
-| Name | Student ID |
-|------|-----------|
-| Teresa Christine Goldenits | s222604 |
-| Ifigeneia Tziola | s222569 |
-| Stefanie Patricia Freymann | s221641 |
-
-*Submitted: 4 December 2022 — DTU Course 42115 Network Optimization*
-
----
-
 ## 📚 References
 
 - D. Pisinger, *Project Assignment: Flowing containers in a liner shipping network*, DTU 2022
